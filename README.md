@@ -3,27 +3,19 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
+The expectations for this project were to take code for Horiseon's website, and make it more user friendly in regards to the code provided. To accomplish this task, the HTML code was restructured to give it an easier to navigate format. The CSS for the file was cleaned up as well, and comments were provided to define what different sections of the styling affected.
 
-This project was created to provide a website for clients to submit projects to build websites for their businesses. This was designed to advertise Horiseon's services in an easy-to-view manner.
-
-This project solves a need for Horiseon to have an easy-to-navigate website that clearly explains all of the features available to clients who work with Horiseon in order to build their websites. It also provides benefits that clients receive by using Horiseon for their website needs.
-
-During this project I learned how to better orient text and images within a document so that they appear in a pleasing manner on the final product.
+During this project I learned how to better group coding in HTML and CSS to make the code easier to read for others by condensing code into more manageable pieces.
 
 ## Access
 
-To access this site, visit    <github address>
+To access this site, visit [Challenge 01](avilwock.github.io/Challenge-01)
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
+To use this document, select one of the three headers along the top right of the document, and the link will take you to that section in the document.
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
-
-![alt text](assets/images/screenshot.png)
-
-<I don't know>
+![alt text](assets/images/Horiseon%20Screenshot.jpeg)
 
 ## Credits
 
@@ -35,26 +27,4 @@ If you followed tutorials, include links to those here as well.
 
 ## License
 
-The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [https://choosealicense.com/](https://choosealicense.com/).
-
----
-
-🏆 The previous sections are the bare minimum, and your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
-
-## Badges
-
-![badmath](https://img.shields.io/github/languages/top/nielsenjared/badmath)
-
-Badges aren't necessary, but they demonstrate street cred. Badges let other developers know that you know what you're doing. Check out the badges hosted by [shields.io](https://shields.io/). You may not understand what they all represent now, but you will in time.
-
-## Features
-
-If your project has a lot of features, list them here.
-
-## How to Contribute
-
-If you created an application or package and would like other developers to contribute to it, you can include guidelines for how to do so. The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own if you'd prefer.
-
-## Tests
-
-Go the extra mile and write tests for your application. Then provide examples on how to run them here.
+MIT License
