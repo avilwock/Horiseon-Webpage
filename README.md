@@ -30,7 +30,7 @@ To access this site, visit [Challenge 01](avilwock.github.io/Challenge-01)
 
 To use this document, select one of the three headers along the top right of the document, and the link will take you to that section in the document.
 
-![alt text](assets/images/Horiseon%20Screenshot.jpeg)
+![Alt text](<assets/images/Horiseon Screenshot 2.jpeg>)
 
 ## Credits
 
