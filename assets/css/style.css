@@ -14,7 +14,7 @@ body {
 }
 
 /* The header element determines the font-family, font-color, background-color,
-and the padding for the header.*/
+and the padding for the headers.*/
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -28,7 +28,7 @@ and the padding for the header.*/
     font-size: 48px;
 }
 
-/*This provides different color for the seo portion of the header.*/
+/*This provides different color for the seo portion of the h1 header.*/
 .header h1 .seo {
     color: #d9dcd6;
 }
@@ -48,7 +48,7 @@ marker.*/
     list-style-type: none;
 }
 
-/*provides the display type, and left margin for the unordered list in the
+/*This provides the display type, and left margin for the unordered list in the
 navigation section of the header, and to display the list items horizontally,
 instead of vertically.*/
 .header nav ul li {
@@ -56,7 +56,7 @@ instead of vertically.*/
     margin-left: 25px;
 }
 
-/*Shows the text color and declares no text-decoration for the anchor elements.*/
+/*Shows the text color and declares no text decoration for the anchor elements.*/
 a {
     color: #ffffff;
     text-decoration: none;
@@ -83,7 +83,7 @@ the hero figure.*/
     float: left;
     margin-right: 25px;
 }
-/*Causes the image will float to the right of the paragraph text.*/
+/*Causes the image to float to the right of the paragraph text.*/
 .float-right {
     float: right;
     margin-left: 25px;
@@ -113,14 +113,14 @@ text color for the text in the heading class.*/
     max-height: 200px;
 }
 
-/*Selects the heading margins and font-size for the header 2 text.*/
+/*Selects the heading class margins and font-size for the header 2 text.*/
 .heading h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
 /*Selects the margin, padding, float, size, font-family, and background
-color for the aside class.*/
+color for the benefits aside class.*/
 .benefit {
     margin-right: 20px;
     padding: 20px;
