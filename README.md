@@ -49,7 +49,6 @@ https://developer.mozilla.org/en-US/docs/Web/CSS
 
 Logan Garland, Coding Bootcamp, University of Irvine California
 
-Marisol Aranda,
 ## License
 
 MIT License
