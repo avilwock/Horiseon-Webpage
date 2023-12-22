@@ -132,10 +132,13 @@ color for the benefits aside class.*/
     background-color: #2589bd;
 }
 
-/*Formats the margin, text, and text-color for the benefits class.*/
+/*Formats the margin, and text alignment for the benefits class.*/
 .benefit article {
     margin-bottom: 10px;
     text-align: center;
+}
+/*Formats the margin-bottom, and the text color for the h3 benefits*/
+.benefit h3 {
     margin-bottom:32px;
     color: #ffffff;
 }
