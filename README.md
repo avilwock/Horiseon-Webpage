@@ -31,7 +31,7 @@ Information for the benefit class element in the aside was moved below informati
 
 ## Access
 
-To access this site, visit [Challenge 01](avilwock.github.io/Challenge-01)
+To access this site, visit: https://avilwock.github.io/Challenge-01/
 
 ## Usage
 
