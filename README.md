@@ -26,9 +26,6 @@ Portions of code with the same attributes were grouped together under the same c
 
 Information for the benefit class element in the aside was moved below information related to the main document to better align with the order of the content on the HTML document.
 
-
-
-
 ## Access
 
 To access this site, visit: https://avilwock.github.io/Challenge-01/
@@ -43,7 +40,7 @@ To use this document, select one of the three headers along the top right of the
 
 With thanks to:
 
-https://developer.mozilla.org/en-US/docs/Web/HTML,
+https://developer.mozilla.org/en-US/docs/Web/HTML
 
 https://developer.mozilla.org/en-US/docs/Web/CSS
 
