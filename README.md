@@ -28,7 +28,9 @@ Information for the benefit class element in the aside was moved below informati
 
 ## Access
 
-To access this site, visit: https://avilwock.github.io/Challenge-01/
+To access this site, please visit: https://avilwock.github.io/Horiseon-Webpage/
+
+To access the repository, please visit: https://github.com/avilwock/Horiseon-Webpage
 
 ## Usage
 
