@@ -4,7 +4,7 @@
 
 This project focuses on a webpage for Horiseon, with the expectations of making provided code more user friendly. 
 
-The requirements for th is class were to have the webpage meet accessibility standards when viewing source code, with logical semantic elements for HTML code, and a logical structure for this code. Each image was also required to have an alt attribute associated in the HTML code. And all elements were to have concise and descriptive titles.
+The requirements for this class were to have the webpage meet accessibility standards when viewing source code, with logical semantic elements for HTML code, and a logical structure for this code. Each image was also required to have an alt attribute associated in the HTML code. And all elements were to have concise and descriptive titles.
 
 To accomplish this task, the HTML code was restructured to give it an easier to navigate format.
 
